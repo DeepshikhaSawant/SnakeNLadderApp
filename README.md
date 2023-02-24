@@ -7,5 +7,6 @@ To Run
 --------------
 This application copy jar from target folder to a local folder on a machine where JRE 7 is available.
 Open command prompt of the local folder and run the below command.
-command : java -jar -Dapple.awt.UIElement="true" SnakeNLadderApp-1.0-SNAPSHOT.jar
+command : 
+`java -jar -Dapple.awt.UIElement="true" SnakeNLadderApp-1.0-SNAPSHOT.jar`
 
